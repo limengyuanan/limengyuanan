@@ -1,16 +1,22 @@
-## Hi there 👋
+# 哈喽！我是[李梦圆] ⚖️
 
-<!--
-**limengyuanan/limengyuanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📸 爱摄影的会计生 | 🏸 羽毛球爱好者  
+🎶 古着唱片收藏家 | ✈️ 旅行记录者
 
-Here are some ideas to get you started:
+## 🌍 关于我
+- 来自湖南张家界🌶️的嘉兴学子
+- 天秤座纠结型选手
+- 会计系大一在读
+- ISTP鉴赏家🔍
 
-- 🔭 I’m currently studying at Jiaxing University,majoring in accounting.
-- 🌱 I’m currently reviewing mathematics,python and economics in order to cope with my exam and improve my grades.
-- 👯 I'm looking for cooperation with my community because I'm going to do summer social practice work, which is a practical activity that must be completed after graduation.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: 2907693974@qq.com or call me directly from Monday to Firday.I don't reply to emails on my days off because I need to relax.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧳 我的宝藏
+- 最爱的旅行地：[ 青岛 ]
+- 最珍贵的收藏：[在长沙天心阁古玩市场25块拿下的hellokitty]
+
+## 📅 近期日常
+- 学习《会计学原理》
+- 和朋友们打羽毛球
+- 在二手市场淘老唱片
+
+## 📮 联系我
+- 邮箱地址：2907693974@qq.com
